@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://openai-prism.github.io/sitemap.xml
