@@ -21,4 +21,5 @@ Prism suits research groups writing long-form LaTeX together, especially ones cu
 *This is an independent page about a third-party product, with no affiliation to or endorsement from OpenAI; all trademarks belong to their respective owners.*
 
 
+
 _Last reviewed: 2026-09-22_
